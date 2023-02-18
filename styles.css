@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Mynerve&display=swap');
 *{
     margin:0;
     padding: 0;
     box-sizing:border-box;
-    font-family: 'Mynerve', cursive;
+    font-family: 'Creepster', cursive;
 }
 body{
     min-height: 100vh;
