@@ -1,9 +1,9 @@
-@import url();
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
 *{
     margin:0;
     padding: 0;
     box-sizing:border-box;
-    font-family: sans-serif;
+    font-family: 'Mynerve', cursive;
 }
 body{
     min-height: 100vh;
@@ -91,8 +91,7 @@ header{
     transform: translateX(290px);   
 }
 .parallax img#grass{
-    position:fixed;
-    bottom: 300pxa;
+    transform: translateY(-100px);   
 }
 
 .sec
