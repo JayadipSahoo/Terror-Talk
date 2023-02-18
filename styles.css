@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Mynerve&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Mynerve&family=Shantell+Sans:wght@300&display=swap');
+
 *{
     margin:0;
     padding: 0;
     box-sizing:border-box;
-    font-family: 'Creepster', cursive;
+    font-family: 'Shantell Sans', cursive;
 }
 body{
     min-height: 100vh;
@@ -74,6 +75,7 @@ header{
     font-size: 5em;
     color: #1b283a;
     text-shadow: 2px 4px 5px #f9f9f9;
+    font-family: 'Creepster', cursive;
 }
 .parallax img{
     position: absolute;
